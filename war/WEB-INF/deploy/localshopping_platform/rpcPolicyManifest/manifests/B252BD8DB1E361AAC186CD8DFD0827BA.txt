@@ -1,0 +1,2 @@
+serviceClass: localshoppingplatform.client.GreetingService
+path: 17BCDF5B06747F18E449F41FBA91E4E7.gwt.rpc

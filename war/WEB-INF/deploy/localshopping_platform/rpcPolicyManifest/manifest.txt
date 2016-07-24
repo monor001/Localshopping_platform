@@ -1,0 +1,3 @@
+# Module localshopping_platform
+# RPC service class, partial path of RPC policy file
+localshoppingplatform.client.GreetingService, 17BCDF5B06747F18E449F41FBA91E4E7.gwt.rpc
